@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Anubhuti-Rasaya/static/css/main.fa3a56a8.css",
+    "main.css": "/Anubhuti-Rasaya/static/css/main.3d7c3dbd.css",
     "main.js": "/Anubhuti-Rasaya/static/js/main.7d1e75a8.js",
     "static/js/787.c309c68f.chunk.js": "/Anubhuti-Rasaya/static/js/787.c309c68f.chunk.js",
     "static/media/video-2.mp4": "/Anubhuti-Rasaya/static/media/video-2.39e6c79bffb375ae929a.mp4",
     "static/media/img-2.jpg": "/Anubhuti-Rasaya/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-1.jpg": "/Anubhuti-Rasaya/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-home.jpg": "/Anubhuti-Rasaya/static/media/img-home.c034239ee9a63564602b.jpg",
     "static/media/img-8.jpg": "/Anubhuti-Rasaya/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "static/media/logo.jpg": "/Anubhuti-Rasaya/static/media/logo.2e3d1c1837cd0a9d6285.jpg",
     "index.html": "/Anubhuti-Rasaya/index.html",
-    "main.fa3a56a8.css.map": "/Anubhuti-Rasaya/static/css/main.fa3a56a8.css.map",
+    "main.3d7c3dbd.css.map": "/Anubhuti-Rasaya/static/css/main.3d7c3dbd.css.map",
     "main.7d1e75a8.js.map": "/Anubhuti-Rasaya/static/js/main.7d1e75a8.js.map",
     "787.c309c68f.chunk.js.map": "/Anubhuti-Rasaya/static/js/787.c309c68f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa3a56a8.css",
+    "static/css/main.3d7c3dbd.css",
     "static/js/main.7d1e75a8.js"
   ]
 }
