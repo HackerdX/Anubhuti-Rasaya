@@ -1,6 +1,7 @@
 import React from 'react'
 import Banner from '../Banner'
 import ProductCard from '../ProductCard';
+import Footer from '../Footer';
 // import '../../App.css'
 
 const Home = () => {
@@ -8,6 +9,7 @@ const Home = () => {
         <>
             <Banner />
             <ProductCard></ProductCard>
+            <Footer></Footer>
         </>
     );
 };
