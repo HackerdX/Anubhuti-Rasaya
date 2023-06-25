@@ -1,0 +1,52 @@
+/* .about {
+    background-image: url('../images/img-5.jpg');
+    background-color: rgba(0, 0, 0, 0.4);
+    font-size: 30px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+  }
+  
+  .about > p {
+    font-size: 20px;
+  } */
+
+  .about-us {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about-us h2 {
+    font-size: 28px;
+  }
+  
+  .about-us p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .about-us button {
+    margin: 20px 0;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .social-media-links {
+    margin-bottom: 20px;
+  }
+  
+  .social-media-links a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .about-us-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
